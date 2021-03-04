@@ -6,3 +6,4 @@
 5) Файлы override.tf, override.tf.json или имеющие в своем имени _override.tf
 ,_override.tf.json
 6) файлы с расширением .terraformrc, terraform.rc
+New line
